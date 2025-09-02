@@ -1,7 +1,7 @@
 # Remove Apps Policy Editor for 25H2+
 
 This simple script allows you to use the RemoveDefaultMicrosoftStorePackages policy introduced in Windows 11 25H2 on non-supported Windows editions. The script will detect your current edition, 
-if this edition is not Enterprise or Education it will convert the OS to Enterprise. After restarting, the selected apps will be removed and the Windows edition will be reset. 
+if this edition is not Enterprise or Education it will convert the OS to Enterprise. After restarting, the selected apps will be removed and the Windows edition will be reset. [**Read More**](https://support.microsoft.com/en-us/topic/policy-based-removal-of-pre-installed-microsoft-store-apps-e1d41a92-b658-4511-95a6-0fbcc02b4e9c)
 
 ## How to Run
 
